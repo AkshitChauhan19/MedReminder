@@ -1,0 +1,21 @@
+*.iml
+.gradle
+/local.properties
+/.idea
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+*.apk
+*.ap_
+*.aab
+build_error.txt
+.kotlin
+
+# Sensitive & Secret Files
+google-services.json
+app/google-services.json
+*.keystore
+*.jks

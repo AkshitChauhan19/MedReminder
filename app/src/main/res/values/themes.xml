@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.MedReminder" parent="android:Theme.Material.Light.NoActionBar">
+        <!-- Use a plain white window background so the system splash is invisible/instant -->
+        <item name="android:windowBackground">@android:color/white</item>
+    </style>
+
+</resources>
